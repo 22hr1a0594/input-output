@@ -10,8 +10,7 @@ DAV Jawahar Vidhya Mandir
 Score:
 150
 Overs played:
-20
-"""
+20"""
 
     print("Team 1:")
     team1_name = input("Team Name:\n")
